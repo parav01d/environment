@@ -1,0 +1,10 @@
+FROM node:16-alpine as src
+
+# Create app directory
+WORKDIR /usr/src/app
+
+COPY package.json package-lock.json ./
+RUN npm ci
+
+EXPOSE 3001 6006
+COPY . ./%
