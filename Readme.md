@@ -1,7 +1,3 @@
-# spcfy-environment
-
-The project includes the development and production environment for `spcfy.id`.
-
 ## Requirements
 
 To be able to work, you need Docker and docker-compose installed on your machine. You also need `make` to be installed
