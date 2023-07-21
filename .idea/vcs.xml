@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repository/backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repository/environment-processing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repository/frontend-console" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repository/frontend-dashboard" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repository/lambda-processing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repository/service-postgres" vcs="Git" />
+  </component>
+</project>
